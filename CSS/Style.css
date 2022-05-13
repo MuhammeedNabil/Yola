@@ -1,0 +1,20 @@
+.home-bg{
+  background-image: url(../img/image-1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.decor-img{
+  left: 50%;
+  right: 5.7%;
+  top: 50%;
+  width: 40%;
+  transform: translateY(-50%);
+  margin-left: 85px;
+}
+.head-cap{
+  font-size: 72px;
+  font-weight: 700;
+}
+.navbar-brand img{
+  width: 80%;
+}
